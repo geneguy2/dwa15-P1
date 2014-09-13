@@ -1,5 +1,15 @@
-# Hello World
+# Live URL
+ksksks
 
-September, 12 2014
+# Description
+ksksks
 
-Just for practice
+# Demo
+ksksks
+
+# Details for teaching team
+ksksks
+
+# Outside code
+Bootstrap: http://getbootstrap.com/
+

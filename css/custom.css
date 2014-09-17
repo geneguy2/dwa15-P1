@@ -1,7 +1,45 @@
 /*!
  * Custom CSS */
- .headline {
- 	text-align: center;
+
+ html, body {
+	font-weight: 300;
+	font-family: "Open Sans",sans-serif;
+	background-color: #f4f4f5;
+	color: #272f38;
+ }
+
+  .bigBackground {
+ 	background: rgba(56,68,82,0.98);
+ 	height: 280px;
 
 
  }
+ .headline {
+ 	text-align: center;
+ 	color: #fff;
+
+
+ }
+
+ .headline h1{
+ 	margin: 0;
+
+
+ }
+
+ .bigText {
+ 	font-size: 118px;
+ 	font-weight: 400;
+ 	margin:40px 0 0px 0;
+
+
+
+ }
+
+ .topLine {
+ 	background-color: #333;
+ 	height: 20px;
+
+ }
+
+

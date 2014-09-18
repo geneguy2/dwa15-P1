@@ -1,5 +1,5 @@
 # Live URL
-ksksks
+http://p1.geneguy.me
 
 # Description
 ksksks
@@ -11,6 +11,6 @@ ksksks
 ksksks
 
 # Outside code
-Bootstrap: http://getbootstrap.com/
+Bootstrap: http://getbootstrap.com/  
 Google Fonts: https://www.google.com/fonts
 

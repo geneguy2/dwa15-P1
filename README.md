@@ -2,13 +2,13 @@
 http://p1.geneguy.me
 
 # Description
-ksksks
+This is my finished portfolio landing page for Project 1.
 
 # Demo
-ksksks
+http://p1.geneguy.me
 
 # Details for teaching team
-ksksks
+This is my finished portfolio landing page for Project 1.
 
 # Outside code
 Bootstrap: http://getbootstrap.com/  

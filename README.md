@@ -12,4 +12,5 @@ ksksks
 
 # Outside code
 Bootstrap: http://getbootstrap.com/
+Google Fonts: https://www.google.com/fonts
 

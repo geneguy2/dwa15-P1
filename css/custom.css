@@ -23,6 +23,7 @@
 
  .headline h1{
  	margin: 0;
+ 	color: #f4f4f5;
 
 
  }
@@ -31,6 +32,8 @@
  	font-size: 118px;
  	font-weight: 400;
  	margin:40px 0 0px 0;
+ 	color: #f4f4f5;
+ 	letter-spacing: -0.4rem;
 
 
 

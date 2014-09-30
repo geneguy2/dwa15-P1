@@ -1,18 +1,14 @@
-#xkcd Password Generator
-
 # Live URL
-http://p2.geneguy.me
+http://p1.geneguy.me
 
 # Description
-A simple utility for generating xkcd style passwords.
+This is my finished portfolio landing page for Project 1. This landing page is for users to access the rest of my projects for the Dynamic Web Applications class.
 
 # Demo
-Coming soon
+http://p1.geneguy.me
 
 # Details for teaching team
-No login required.
-
-The file word-scrape.php was used to generate the word list.
+This is my finished portfolio landing page for Project 1.
 
 # Outside code
 Bootstrap: http://getbootstrap.com/  

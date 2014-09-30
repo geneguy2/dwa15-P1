@@ -1,5 +1,3 @@
-# xkcd Password Generator
-
 # Live URL
 http://p1.geneguy.me
 

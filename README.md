@@ -1,3 +1,5 @@
+# xkcd Password Generator
+
 # Live URL
 http://p1.geneguy.me
 
@@ -5,7 +7,7 @@ http://p1.geneguy.me
 This is my finished portfolio landing page for Project 1. This landing page is for users to access the rest of my projects for the Dynamic Web Applications class. The
 
 # Demo
-http://p1.geneguy.me
+No demo needed.
 
 # Details for teaching team
 This is my finished portfolio landing page for Project 1.  Hopefully this works.

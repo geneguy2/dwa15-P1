@@ -8,7 +8,7 @@ This is my finished portfolio landing page for Project 1. This landing page is f
 http://p1.geneguy.me
 
 # Details for teaching team
-This is my finished portfolio landing page for Project 1.
+This is my finished portfolio landing page for Project 1.  Hopefully this works.
 
 # Outside code
 Bootstrap: http://getbootstrap.com/  
